@@ -1,0 +1,178 @@
+Index(['mean_fit_time', 'mean_score_time', 'mean_test_AUC',
+       'mean_test_Accuracy', 'mean_train_AUC', 'mean_train_Accuracy',
+       'param_max_depth', 'param_max_features', 'param_max_leaf_nodes',
+       'param_min_samples_leaf', 'param_min_samples_split',
+       'param_n_estimators', 'params', 'rank_test_AUC', 'rank_test_Accuracy',
+       'split0_test_AUC', 'split0_test_Accuracy', 'split0_train_AUC',
+       'split0_train_Accuracy', 'split1_test_AUC', 'split1_test_Accuracy',
+       'split1_train_AUC', 'split1_train_Accuracy', 'split2_test_AUC',
+       'split2_test_Accuracy', 'split2_train_AUC', 'split2_train_Accuracy',
+       'split3_test_AUC', 'split3_test_Accuracy', 'split3_train_AUC',
+       'split3_train_Accuracy', 'split4_test_AUC', 'split4_test_Accuracy',
+       'split4_train_AUC', 'split4_train_Accuracy', 'std_fit_time',
+       'std_score_time', 'std_test_AUC', 'std_test_Accuracy', 'std_train_AUC',
+       'std_train_Accuracy'],
+      dtype='object')
+Model  2691 
+ {'max_depth': 27, 'max_features': 'auto', 'max_leaf_nodes': 11, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 20} 
+Auccuracy:  0.9658119658119658 
+AUC:  0.9617419617419617
+Model  3907 
+ {'max_depth': None, 'max_features': 'auto', 'max_leaf_nodes': 13, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 20} 
+Auccuracy:  0.9658119658119658#
+
+AUC:  0.9655677655677656
+Model  3842 
+ {'max_depth': None, 'max_features': 'auto', 'max_leaf_nodes': 21, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 24} 
+Auccuracy:  0.9658119658119658 
+AUC:  0.9631766381766381
+Model  2947 
+ {'max_depth': 27, 'max_features': 'sqrt', 'max_leaf_nodes': 13, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 20} 
+Auccuracy:  0.9658119658119658 
+AUC:  0.9655677655677656
+Model  3843 
+ {'max_depth': None, 'max_features': 'auto', 'max_leaf_nodes': 21, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 20} 
+Auccuracy:  0.9658119658119658 
+AUC:  0.9660459910459911
+Model  3011 
+ {'max_depth': 27, 'max_features': 'sqrt', 'max_leaf_nodes': 11, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 20} 
+Auccuracy:  0.9658119658119658 
+AUC:  0.9617419617419617
+Model  1283 
+ {'max_depth': 11, 'max_features': 'auto', 'max_leaf_nodes': 21, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 20} 
+Auccuracy:  0.9658119658119658 
+AUC:  0.9660459910459911
+Model  3200 
+ {'max_depth': 27, 'max_features': 'log2', 'max_leaf_nodes': 21, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 10} 
+Auccuracy:  0.9658119658119658 
+AUC:  0.944047619047619
+Model  323 
+ {'max_depth': 8, 'max_features': 'sqrt', 'max_leaf_nodes': 21, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 20} 
+Auccuracy:  0.9658119658119658 
+AUC:  0.9674806674806675
+Model  322 
+ {'max_depth': 8, 'max_features': 'sqrt', 'max_leaf_nodes': 21, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 24} 
+Auccuracy:  0.9658119658119658 
+AUC:  0.9650895400895402
+Model  3971 
+ {'max_depth': None, 'max_features': 'auto', 'max_leaf_nodes': 11, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 20} 
+Auccuracy:  0.9658119658119658 
+AUC:  0.9617419617419617
+Model  2883 
+ {'max_depth': 27, 'max_features': 'sqrt', 'max_leaf_nodes': 21, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 20} 
+Auccuracy:  0.9658119658119658 
+AUC:  0.9660459910459911
+Model  4162 
+ {'max_depth': None, 'max_features': 'sqrt', 'max_leaf_nodes': 21, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 24} 
+Auccuracy:  0.9658119658119658 
+AUC:  0.9631766381766381
+Model  4163 
+ {'max_depth': None, 'max_features': 'sqrt', 'max_leaf_nodes': 21, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 20} 
+Auccuracy:  0.9658119658119658 
+AUC:  0.9660459910459911
+Model  4227 
+ {'max_depth': None, 'max_features': 'sqrt', 'max_leaf_nodes': 13, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 20} 
+Auccuracy:  0.9658119658119658 
+AUC:  0.9655677655677656
+Model  4291 
+ {'max_depth': None, 'max_features': 'sqrt', 'max_leaf_nodes': 11, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 20} 
+Auccuracy:  0.9658119658119658 
+AUC:  0.9617419617419617
+Model  4480 
+ {'max_depth': None, 'max_features': 'log2', 'max_leaf_nodes': 21, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 10} 
+Auccuracy:  0.9658119658119658 
+AUC:  0.944047619047619
+Model  259 
+ {'max_depth': 8, 'max_features': 'auto', 'max_leaf_nodes': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 20} 
+Auccuracy:  0.9658119658119658 
+AUC:  0.9794363044363045
+Model  67 
+ {'max_depth': 8, 'max_features': 'auto', 'max_leaf_nodes': 13, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 20} 
+Auccuracy:  0.9658119658119658 
+AUC:  0.9674806674806675
+Model  131 
+ {'max_depth': 8, 'max_features': 'auto', 'max_leaf_nodes': 11, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 20} 
+Auccuracy:  0.9658119658119658 
+AUC:  0.9617419617419617
+Model  4097 
+ {'max_depth': None, 'max_features': 'auto', 'max_leaf_nodes': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 22} 
+Auccuracy:  0.9615384615384616 
+AUC:  0.9813492063492064
+
+
+Model  2817 
+ {'max_depth': 27, 'max_features': 'auto', 'max_leaf_nodes': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 22} 
+Auccuracy:  0.9615384615384616 
+AUC:  0.9813492063492064
+Model  4417 
+ {'max_depth': None, 'max_features': 'sqrt', 'max_leaf_nodes': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 22} 
+Auccuracy:  0.9615384615384616 
+AUC:  0.9813492063492064
+Model  3137 
+ {'max_depth': 27, 'max_features': 'sqrt', 'max_leaf_nodes': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 22} 
+Auccuracy:  0.9615384615384616 
+AUC:  0.9813492063492064
+Model  3139 
+ {'max_depth': 27, 'max_features': 'sqrt', 'max_leaf_nodes': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 20} 
+Auccuracy:  0.9572649572649573 
+AUC:  0.9813492063492063
+Model  4099 
+ {'max_depth': None, 'max_features': 'auto', 'max_leaf_nodes': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 20} 
+Auccuracy:  0.9572649572649573 
+AUC:  0.9813492063492063
+Model  2819 
+ {'max_depth': 27, 'max_features': 'auto', 'max_leaf_nodes': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 20} 
+Auccuracy:  0.9572649572649573 
+AUC:  0.9813492063492063
+Model  4419 
+ {'max_depth': None, 'max_features': 'sqrt', 'max_leaf_nodes': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 20} 
+Auccuracy:  0.9572649572649573 
+AUC:  0.9813492063492063
+Model  1537 
+ {'max_depth': 11, 'max_features': 'auto', 'max_leaf_nodes': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 22} 
+Auccuracy:  0.9615384615384616 
+AUC:  0.9803927553927555
+Model  1857 
+ {'max_depth': 11, 'max_features': 'sqrt', 'max_leaf_nodes': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 22} 
+Auccuracy:  0.9615384615384616 
+AUC:  0.9803927553927555
+Model  1859 
+ {'max_depth': 11, 'max_features': 'sqrt', 'max_leaf_nodes': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 20} 
+Auccuracy:  0.9572649572649573 
+AUC:  0.9803927553927554
+Model  1539 
+ {'max_depth': 11, 'max_features': 'auto', 'max_leaf_nodes': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 20} 
+Auccuracy:  0.9572649572649573 
+AUC:  0.9803927553927554
+Model  259 
+ {'max_depth': 8, 'max_features': 'auto', 'max_leaf_nodes': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 20} 
+Auccuracy:  0.9658119658119658 
+AUC:  0.9794363044363045
+Model  579 
+ {'max_depth': 8, 'max_features': 'sqrt', 'max_leaf_nodes': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 20} 
+Auccuracy:  0.9658119658119658 
+AUC:  0.9794363044363045
+Model  578 
+ {'max_depth': 8, 'max_features': 'sqrt', 'max_leaf_nodes': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 24} 
+Auccuracy:  0.9615384615384616 
+AUC:  0.9789580789580791
+Model  258 
+ {'max_depth': 8, 'max_features': 'auto', 'max_leaf_nodes': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 24} 
+Auccuracy:  0.9615384615384616 
+AUC:  0.9789580789580791
+Model  577 
+ {'max_depth': 8, 'max_features': 'sqrt', 'max_leaf_nodes': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 22} 
+Auccuracy:  0.9658119658119658 
+AUC:  0.978958078958079
+Model  257 
+ {'max_depth': 8, 'max_features': 'auto', 'max_leaf_nodes': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 22} 
+Auccuracy:  0.9658119658119658 
+AUC:  0.978958078958079
+Model  4098 
+ {'max_depth': None, 'max_features': 'auto', 'max_leaf_nodes': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 24} 
+Auccuracy:  0.9572649572649573 
+AUC:  0.9784798534798536
+Model  2818 
+ {'max_depth': 27, 'max_features': 'auto', 'max_leaf_nodes': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 24} 
+Auccuracy:  0.9572649572649573 
+AUC:  0.9784798534798536
